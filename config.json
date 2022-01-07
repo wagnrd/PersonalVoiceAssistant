@@ -1,0 +1,6 @@
+{
+  "prefix": "zeitgeist",
+  "sampleRate": 16000,
+  "noSkillReply": "Entschuldigung, das habe ich nicht verstanden.",
+  "mbrolaVoice": "mb-us1"
+}
