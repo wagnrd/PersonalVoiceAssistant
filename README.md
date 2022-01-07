@@ -4,6 +4,7 @@ A privacy compliant personal voice assistant that operates completely on your ma
 without your permission.
 
 [Demo Video](https://youtu.be/FC_cBd7mTqg)
+[Documentation (german)](./documentation.pdf)
 
 ### Dependencies
 
